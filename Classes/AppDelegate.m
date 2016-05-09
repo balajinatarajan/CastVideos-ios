@@ -27,7 +27,7 @@
   // Turn on the Cast logging for debug purposes.
   [[CastDeviceController sharedInstance] enableLogging];
   // Set the receiver application ID to initialise scanning.
-  [CastDeviceController sharedInstance].applicationID = @"BE13B491";
+  [CastDeviceController sharedInstance].applicationID = @"01CB9B68";
   // Replace the value above with your app id.
 
   // Set playback category mode to allow playing audio on the video files even when the ringer
